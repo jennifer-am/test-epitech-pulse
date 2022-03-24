@@ -1,0 +1,1 @@
+<p class="copyright">Copyright © 2020 - Epitech Bénin - Tous droits réservés</p>
